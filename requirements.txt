@@ -1,0 +1,16 @@
+# requirements.txt
+
+# Core dependencies for the Ant-v5 environment
+gymnasium>=0.28.0
+gymnasium[mujoco]
+mujoco
+numpy
+
+# Optional but common for RL projects:
+
+# For running algorithms (e.g., PPO, SAC)
+# stable-baselines3>=2.0.0
+
+# For data visualization and logging (e.g., training curves)
+# matplotlib
+# tensorboard
