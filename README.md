@@ -10,25 +10,6 @@ A comprehensive comparative study of four state-of-the-art Deep Reinforcement Le
 
 ---
 
-## Table of Contents
-
-- [Project Overview](#-project-overview)
-- [Key Features](#-key-features)
-- [Algorithms Compared](#-algorithms-compared)
-- [Environment](#-environment)
-- [Project Structure](#-project-structure)
-- [Installation](#-installation)
-- [Training](#-training)
-- [Evaluation](#-evaluation)
-- [Results](#-results)
-- [Technologies Used](#-technologies-used)
-- [Future Improvements](#-future-improvements)
-- [References](#-references)
-- [Author](#-author)
-- [License](#-license)
-
----
-
 ## Project Overview
 
 Reinforcement Learning (RL) has become one of the most effective approaches for solving complex continuous control problems in robotics. This project presents a comparative analysis of four widely used Deep Reinforcement Learning algorithms—**Proximal Policy Optimization (PPO)**, **Deep Deterministic Policy Gradient (DDPG)**, **Twin Delayed Deep Deterministic Policy Gradient (TD3)**, and **Soft Actor-Critic (SAC)**—using the **MuJoCo Ant-v5** environment.
